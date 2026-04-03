@@ -1,48 +1,51 @@
-# 💫 About Me:
-🔭 I’m currently working on: Building a Hardened CI/CD Engine on Azure using Dockerized Jenkins, GitHub Actions, and Trivy for automated vulnerability scanning.<br>👯 I’m looking to collaborate on: Open-source Platform Engineering frameworks and Backstage.io implementations for internal developer portals.<br>🤝 I’m looking for help with: Advanced Distributed System Design and high-scale Kubernetes (AKS) networking patterns.<br>🌱 I’m currently learning: ArgoCD for GitOps, Crossplane for K8s-native infrastructure, and AIOps for predictive incident response.<br>💬 Ask me about: Azure Cloud Migration, Linux Kernel Hardening, Python Automation, and why Infrastructure as Code (IaC) is the only way to live.<br>⚡ Fun fact: I believe that Tier-1 Architectures can be built from Tier-3 Cities. Consistency in the terminal beats location every time.<br>
+<div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- HEADER SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_pardhi7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-pardhi) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Harsh-Pardhi-17) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mother-Carpet-9204) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29960291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshpardhi477@gmail.com) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:79c0ff&height=220&section=header&text=Harsh%20Pardhi&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineering%20Resilient%20Cloud%20Infrastructure%20at%20Scale&descSize=18&descAlignY=55&descAlign=50"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+<!-- ANIMATED TYPING ROLES -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=45&lines=%E2%98%81%EF%B8%8F+Cloud+Engineer+%7C+Azure+Ecosystem;%F0%9F%94%A7+DevOps+Engineer+%7C+CI%2FCD+Architect;%F0%9F%8F%97%EF%B8%8F+Platform+Engineer+%7C+Golden+Path+Builder;%F0%9F%A4%96+Infrastructure+Automation+Expert+%7C+IaC+Specialist;%F0%9F%9A%80+SRE+%7C+Self-Healing+Systems+Engineer" alt="Typing SVG" />
+</a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HP04Harsh&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HP04Harsh&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HP04Harsh&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<!-- LOCATION & DYNAMIC INFO -->
+<img src="https://img.shields.io/badge/📍_Nagpur,_India-0d1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🕐_UTC+05:30-0d1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/☁️_Azure_Cloud_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏢_Hexaware_Technologies-1f6feb?style=for-the-badge&logoColor=white"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=HP04Harsh&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/><br/>
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harsh04)
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<a href="https://github.com/HP04Harsh">
+  <img src="https://komarev.com/ghpvc/?username=HP04Harsh&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
+</a>
+<a href="https://github.com/HP04Harsh?tab=followers">
+  <img src="https://img.shields.io/github/followers/HP04Harsh?style=for-the-badge&color=1f6feb&labelColor=0d1117&label=FOLLOWERS"/>
+</a>
+<a href="https://github.com/HP04Harsh?tab=repositories">
+  <img src="https://img.shields.io/badge/PUBLIC_REPOS-25+-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+</a>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat"/>
+</div>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+
