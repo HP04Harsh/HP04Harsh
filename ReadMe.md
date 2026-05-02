@@ -1,119 +1,91 @@
+
+
 <div align="center">
 
-<!-- HEADER SECTION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb,58a6ff&height=250&section=header&text=Harsh%20Pardhi&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20High-Scale%20Cloud%20Ecosystems%20|%20Turning%20Code%20into%20Infrastructure&descSize=20&descAlignY=58&descAlign=50" alt="Header Banner"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud%20Modernization%20%26%20Platform%20Architect;Infrastructure%20as%20Code%20(Terraform%20%26%20Pulumi);Enterprise%20MLOps%20%26%20LLMOps%20Engineer;Building%20Self-Healing%20Agentic%20AI%20Systems)](https://git.io/typing-svg)
 
-<!-- DYNAMIC SUBTITLE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=2%2B+Years+of+Modern+Cloud+Engineering;Azure+Ecosystem+Specialist+%26+DevOps+Architect;Infrastructure+as+Code+(IaC)+Evangelist;SRE+%7C+Building+Self-Healing+Platforms" alt="Typing SVG" />
-</a>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Exp-2%2B_Years_in_IT-0078D4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Platform_Engineering-1f6feb?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Current-Hexaware_Technologies-0d1117?style=for-the-badge&logoColor=white" />
-</p>
-
-<!-- STATS SECTION (Clean & Integrated) -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HP04Harsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HP04Harsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Langs" height="180px"/>
-</p>
+![Experience](https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS_IN_IT-2EA043?style=for-the-badge&logo=expert&logoColor=white)
+![Current](https://img.shields.io/badge/CURRENT-HEXAWARE_TECHNOLOGIES-FFA500?style=for-the-badge&logo=hexaware&logoColor=white)
+![Focus](https://img.shields.io/badge/FOCUS-CLOUD_%26_MLOPS-D73A49?style=for-the-badge&logo=target&logoColor=white)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- EXECUTIVE SUMMARY -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<table align="center" width="100%">
-  <tr>
-    <td width="100%">
-      <h2 align="center">⚡ Executive Summary</h2>
-      <p align="center">
-        With <b>2+ years of intensive experience in the IT landscape</b>, I specialize in bridging the gap between development and operations. My expertise lies in designing resilient Azure-native architectures and automating the "Golden Path" for engineering teams. I thrive on solving complex distributed system problems and optimizing cloud spend through precision IaC.
-      </p>
-    </td>
-  </tr>
-</table>
+## 💼 Professional Experience & Impact
+As a **Cloud & DevOps Engineer** at **Hexaware Technologies**, I specialize in architecting resilient Azure and AWS ecosystems. I have successfully led enterprise-scale migrations to **Microsoft 365 Cloud** and orchestrated **AKS** clusters with extreme focus on scalability. By leveraging **Infrastructure as Code (IaC)** and **GitOps**, I eliminate configuration drift and deliver high-performance, cost-optimized cloud platforms.
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- TECH ARSENAL (Categorized Grid) -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+## 🎯 Strategic Goals & Targets (2025-2026)
+* 🚀 **Architecting:** Multi-region Self-Healing Infrastructure using **Agentic AI** for auto-remediation.
+* 🐳 **Mastering:** Advanced Kubernetes Governance, Multi-Cluster Service Mesh (Istio), and **Pulumi**.
+* 🤖 **Pioneering:** Scalable **LLMOps** pipelines for enterprise-grade Generative AI deployments using **Kubeflow**.
+* 📈 **Optimizing:** FinOps strategies to reduce cloud operational costs by 40% via precision **IaC**.
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
+<br/>
 
-<div align="center">
-
-| Category | Tools & Technologies |
+## 🛠️ Technical Arsenal
+| Category | Specialized Technologies |
 | :--- | :--- |
-| **Cloud & Orchestration** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
-| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white) ![Bicep](https://img.shields.io/badge/-Bicep-0078D4?logo=microsoftazure&logoColor=white) |
-| **Development** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
-| **CI/CD Pipelines** | ![GitHub Actions](https://img.shields.io/badge/-GH_Actions-2088FF?logo=github-actions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azure-devops&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) |
-| **Observability** | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/-ELK_Stack-005571?logo=elasticsearch&logoColor=white) |
-
-</div>
+| **Cloud & OS** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux_OS-FCC624?logo=linux&logoColor=black) ![Podman](https://img.shields.io/badge/-Podman-892CA0?logo=podman&logoColor=white) |
+| **Orchestration** | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1628?logo=helm&logoColor=white) |
+| **IaC & Config** | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) ![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?logo=pulumi&logoColor=white) ![Bicep](https://img.shields.io/badge/-Bicep-0078D4?logo=microsoftazure&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white) |
+| **MLOps & AI** | ![Kubeflow](https://img.shields.io/badge/-Kubeflow-0078D4?logo=kubeflow&logoColor=white) ![DVC](https://img.shields.io/badge/-DVC-945DD6?logo=dvc&logoColor=white) ![LLMOps](https://img.shields.io/badge/-LLMOps-412991?logo=openai&logoColor=white) ![Agentic_AI](https://img.shields.io/badge/-Agentic_AI-FF6F61?logo=google-ai&logoColor=white) |
+| **CI/CD & GitOps** | ![Azure_DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azure-devops&logoColor=white) ![GH_Actions](https://img.shields.io/badge/-GH_Actions-2088FF?logo=github-actions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?logo=argo&logoColor=white) |
+| **Monitoring** | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Monitor](https://img.shields.io/badge/-Azure_Monitor-0078D4?logo=microsoftazure&logoColor=white) |
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ENGINEERING FOCUS (The "What I Build" Section) -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏗️ Engineering Philosophy</h2>
-
-<div align="center">
-<table width="90%">
+## 🏗️ Engineering Focus
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Platform Engineering</h3>
       <ul>
-        <li>Developing <b>Internal Developer Platforms (IDP)</b> to reduce cognitive load.</li>
-        <li>Automating zero-trust infrastructure provisioning via Terraform.</li>
-        <li>Container hardening and multi-stage CI/CD security scanning.</li>
+        <li>Developing <b>Internal Developer Platforms (IDP)</b>.</li>
+        <li>Automating infrastructure with <b>Terraform & Pulumi</b>.</li>
+        <li>Implementing <b>Zero-Trust</b> security in AKS.</li>
+        <li>Architecting highly available <b>Hybrid Cloud</b>.</li>
+        <li>Leading data migrations to <b>M365 Cloud</b>.</li>
+        <li>Enforcing cloud governance via <b>Azure Policy</b>.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Site Reliability (SRE)</h3>
+      <h3>🤖 MLOps & Agentic Systems</h3>
       <ul>
-        <li>Implementing <b>SLIs/SLOs</b> for critical Azure microservices.</li>
-        <li>Building self-healing logic using Python and Kubernetes Operators.</li>
-        <li>Post-mortem analysis to turn incidents into infrastructure improvements.</li>
+        <li>Orchestrating AI workflows via <b>Kubeflow & DVC</b>.</li>
+        <li>Building <b>Inference Pipelines</b> for LLM deployment.</li>
+        <li>Developing <b>Agentic AI</b> for auto-remediation.</li>
+        <li>Establishing <b>SLI/SLO/SLA</b> for AI workloads.</li>
+        <li>Implementing <b>LLMOps</b> monitoring strategies.</li>
+        <li>Optimizing AI compute via <b>GPU scheduling</b>.</li>
       </ul>
     </td>
   </tr>
 </table>
+
+<br/>
+
+## 📈 Contribution Velocity (Live)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HP04Harsh&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)
+
+<br/>
+
+## 📩 Connect With Me
+<div align="left">
+
+[![Email Me](https://img.shields.io/badge/Contact_Me-Email_Harsh-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshpardhi499@gmail.com?subject=Inquiry%20from%20GitHub&body=Hi%20Harsh,)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://hpharsh.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-pardhi)
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshpardhi477)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solves-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/harsh_pardhi/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Certs-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/harshpardhi477)
+
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY GRAPH -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📈 Code Velocity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HP04Harsh&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%" />
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- CONNECT SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🤝 Let's Architect the Future</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/harsh-pardhi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harshpardhi477@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://buymeacoffee.com/harsh04"><img src="https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb,58a6ff&height=150&section=footer&text=Innovate.%20Automate.%20Scale.&fontSize=30&fontColor=ffffff&fontAlignY=70" width="100%" />
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f6feb,58a6ff&height=150&section=footer&text=Innovate.%20Automate.%20Scale.&fontSize=30&fontColor=ffffff&fontAlignY=70)
