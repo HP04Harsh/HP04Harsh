@@ -4,7 +4,8 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud%20Modernization%20%26%20Platform%20Architect;Infrastructure%20as%20Code%20(Terraform%20%26%20Pulumi);Enterprise%20MLOps%20%26%20LLMOps%20Engineer;Building%20Self-Healing%20Agentic%20AI%20Systems)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software%20Engineer%20at%20Hexaware%20Technologies;Transitioning%20into%20Cloud%20Native%20and%20SRE;Infrastructure%20as%20Code%20(Terraform%20and%20Pulumi);Building%20Self-Healing%20AI%20Infrastructure)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,30 +13,32 @@
 ![Current](https://img.shields.io/badge/CURRENT-HEXAWARE_TECHNOLOGIES-FFA500?style=for-the-badge&logo=hexaware&logoColor=white)
 ![Focus](https://img.shields.io/badge/FOCUS-CLOUD_%26_MLOPS-D73A49?style=for-the-badge&logo=target&logoColor=white)
 
-<br/>
 
-## 💼 Professional Experience & Impact
-As a **Cloud & DevOps Engineer** at **Hexaware Technologies**, I specialize in architecting resilient Azure and AWS ecosystems. I have successfully led enterprise-scale migrations to **Microsoft 365 Cloud** and orchestrated **AKS** clusters with extreme focus on scalability. By leveraging **Infrastructure as Code (IaC)** and **GitOps**, I eliminate configuration drift and deliver high-performance, cost-optimized cloud platforms.
 
 <br/>
 
-## 🎯 Strategic Goals & Targets (2025-2026)
-| Target Roadmap |
+## 💼 Professional Experience and Impact
+As a **Software Engineer** at **Hexaware Technologies**, I bridge the gap between application development and modern infrastructure. I have a proven track record of managing enterprise **M365 Cloud migrations** and proactively implementing **SRE practices**. I specialize in creating **24x7 monitoring solutions** using **Grafana and Prometheus** to ensure client environment stability. By upskilling in **IaC (Terraform)** and **Kubernetes**, I deliver high-performance, automated cloud platforms that drive business value.
+
+<br/>
+
+## 🎯 Strategic Goals and Targets (2025-2026)
+| My Roadmap to Platform Engineering |
 | :--- |
 | 🚀 **Architecting:** Multi-region Self-Healing Infrastructure using **Agentic AI** for auto-remediation. |
 | 🐳 **Mastering:** Advanced Kubernetes Governance, Multi-Cluster Service Mesh (Istio), and **Pulumi**. |
-| 🤖 **Pioneering:** Scalable **LLMOps** pipelines for enterprise-grade Generative AI deployments using **Kubeflow**. |
-| 📈 **Optimizing:** FinOps strategies to reduce cloud operational costs by 40% via precision **IaC**. |
+| 🤖 **Pioneering:** Scalable **LLMOps** pipelines for enterprise-grade AI deployments using **Kubeflow**. |
+| 📈 **Optimizing:** FinOps strategies to reduce cloud operational costs via precision **Infrastructure as Code**. |
 
 <br/>
 
-## 🌟 Featured Engineering Projects
+## 🌟 Featured Engineering Projects (Innovation and Research)
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🤖 Self-Healing AI Infrastructure</h4>
-      <p>Built an intelligent <b>AKS monitoring layer</b> in Python to parse Prometheus alerts and execute automated pod remediation, utilizing <b>Azure OpenAI</b> for diagnostic log analysis. Reduced MTTR by <b>45%</b>.</p>
-      <code>Python</code> <code>AKS</code> <code>OpenAI</code> <code>Prometheus</code>
+      <p>Developed an intelligent <b>AKS monitoring layer</b> in Python to parse Prometheus alerts and execute automated pod remediation, utilizing <b>Azure OpenAI</b> for diagnostic log analysis. Reduced MTTR by <b>45%</b>.</p>
+      <code>Python</code> <code>AKS</code> <code>OpenAI</code> <code>SRE</code>
     </td>
     <td width="50%" valign="top">
       <h4>🚀 Enterprise MLOps Pipeline</h4>
@@ -48,14 +51,13 @@ As a **Cloud & DevOps Engineer** at **Hexaware Technologies**, I specialize in a
 <br/>
 
 ## 🛠️ Technical Arsenal
-| Category | Specialized Technologies |
+| Category | Technologies I Master |
 | :--- | :--- |
-| **Cloud & OS** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Podman](https://img.shields.io/badge/-Podman-892CA0?logo=podman&logoColor=white) |
+| **Cloud and OS** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Podman](https://img.shields.io/badge/-Podman-892CA0?logo=podman&logoColor=white) |
 | **Orchestration** | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1628?logo=helm&logoColor=white) |
-| **IaC & Config** | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) ![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?logo=pulumi&logoColor=white) ![Bicep](https://img.shields.io/badge/-Bicep-0078D4?logo=microsoftazure&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white) |
-| **MLOps & AI** | ![Kubeflow](https://img.shields.io/badge/-Kubeflow-0078D4?logo=kubeflow&logoColor=white) ![DVC](https://img.shields.io/badge/-DVC-945DD6?logo=dvc&logoColor=white) ![LLMOps](https://img.shields.io/badge/-LLMOps-412991?logo=openai&logoColor=white) ![Agentic_AI](https://img.shields.io/badge/-Agentic_AI-FF6F61?logo=google-ai&logoColor=white) |
-| **CI/CD & GitOps** | ![Azure_DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azure-devops&logoColor=white) ![GH_Actions](https://img.shields.io/badge/-GH_Actions-2088FF?logo=github-actions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?logo=argo&logoColor=white) |
-| **Monitoring** | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Monitor](https://img.shields.io/badge/-Azure_Monitor-0078D4?logo=microsoftazure&logoColor=white) |
+| **IaC and Config** | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) ![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?logo=pulumi&logoColor=white) ![Bicep](https://img.shields.io/badge/-Bicep-0078D4?logo=microsoftazure&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white) |
+| **DevOps and AI** | ![Kubeflow](https://img.shields.io/badge/-Kubeflow-0078D4?logo=kubeflow&logoColor=white) ![DVC](https://img.shields.io/badge/-DVC-945DD6?logo=dvc&logoColor=white) ![AzureDevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azure-devops&logoColor=white) ![AgenticAI](https://img.shields.io/badge/-Agentic_AI-FF6F61?logo=google-ai&logoColor=white) |
+| **SRE and Monitoring** | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) ![Monitor](https://img.shields.io/badge/-Azure_Monitor-0078D4?logo=microsoftazure&logoColor=white) |
 
 <br/>
 
@@ -63,25 +65,25 @@ As a **Cloud & DevOps Engineer** at **Hexaware Technologies**, I specialize in a
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="left">
-      <h3>🚀 Platform Engineering</h3>
+      <h3>🚀 Platform and Automation</h3>
       <ul>
-        <li>Developing <b>Internal Developer Platforms (IDP)</b>.</li>
-        <li>Automating infrastructure with <b>Terraform %26 Pulumi</b>.</li>
-        <li>Implementing <b>Zero-Trust</b> security in AKS.</li>
-        <li>Architecting highly available <b>Hybrid Cloud</b>.</li>
-        <li>Leading data migrations to <b>M365 Cloud</b>.</li>
-        <li>Enforcing cloud governance via <b>Azure Policy</b>.</li>
+        <li>Implementing <b>24x7 Monitoring</b> for client environments using Grafana.</li>
+        <li>Automating infrastructure with <b>Terraform and Pulumi</b>.</li>
+        <li>Designing <b>CI/CD Pipelines</b> to reduce manual code deployment toil.</li>
+        <li>Architecting highly available <b>Hybrid Cloud</b> solutions.</li>
+        <li>Leading enterprise <b>M365 Cloud migrations</b> for global clients.</li>
+        <li>Enforcing security via <b>Azure Policy</b> and RBAC models.</li>
       </ul>
     </td>
     <td width="50%" valign="top" align="left">
-      <h3>🤖 MLOps %26 Agentic Systems</h3>
+      <h3>🤖 SRE and AI Systems</h3>
       <ul>
-        <li>Orchestrating AI workflows via <b>Kubeflow %26 DVC</b>.</li>
+        <li>Developing <b>Self-Healing Infrastructure</b> to minimize downtime.</li>
+        <li>Orchestrating AI workflows via <b>Kubeflow and DVC</b>.</li>
         <li>Building <b>Inference Pipelines</b> for LLM deployment.</li>
-        <li>Developing <b>Agentic AI</b> for auto-remediation.</li>
-        <li>Establishing <b>SLI/SLO/SLA</b> for AI workloads.</li>
-        <li>Implementing <b>LLMOps</b> monitoring strategies.</li>
-        <li>Optimizing AI compute via <b>GPU scheduling</b>.</li>
+        <li>Developing <b>Agentic AI</b> for autonomous system remediation.</li>
+        <li>Establishing <b>SLI/SLO/SLA</b> dashboards for production health.</li>
+        <li>Optimizing AI compute costs via <b>GPU scheduling</b> in K8s.</li>
       </ul>
     </td>
   </tr>
