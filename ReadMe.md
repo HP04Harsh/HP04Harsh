@@ -78,7 +78,7 @@ As a **Software Engineer** at **Hexaware Technologies**, I bridge the gap betwee
     <td width="50%" valign="top" align="left">
       <h3>🤖 SRE and AI Systems</h3>
       <ul>
-        <li>Developing <b>Self-Healing Infrastructure</b> to minimize downtime.</li>
+        <li>Developing <b>Self-Healing AI Infrastructure</b> to minimize downtime.</li>
         <li>Orchestrating AI workflows via <b>Kubeflow and DVC</b>.</li>
         <li>Building <b>Inference Pipelines</b> for LLM deployment.</li>
         <li>Developing <b>Agentic AI</b> for autonomous system remediation.</li>
