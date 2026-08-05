@@ -57,7 +57,7 @@
     <circle cx="134" cy="79" r="6.5" fill="#FF5F56"/>
     <circle cx="156" cy="79" r="6.5" fill="#FFBD2E"/>
     <circle cx="178" cy="79" r="6.5" fill="#27C93F"/>
-    <text x="450" y="84" fill="#57606A" font-size="13" text-anchor="middle">harsh@hexaware: ~/cloud-platform — zsh</text>
+    <text x="450" y="84" fill="#57606A" font-size="13" text-anchor="middle">harsh pardhi: ~/cloud-platform — zsh</text>
 
     <text x="138" y="134" font-size="15"><tspan fill="#1A7F37">$</tspan><tspan fill="#1F2328"> whoami</tspan></text>
     <text x="138" y="162" fill="#57606A" font-size="15">harsh_pardhi · Cloud Platform Engineer</text>
