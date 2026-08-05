@@ -1,6 +1,6 @@
 <div align="center">
 
-# HARSH PARDHI
+# HARSH PARDHI #
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=1C6EB4&center=true&vCenter=true&width=900&lines=Cloud+Platform+Engineer;Azure+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+CI%2FCD;AIOps%3A+InfraGenie+with+7+AI+Personas;Automate+the+Boring.+Keep+it+Reliable.)](https://git.io/typing-svg)
 
