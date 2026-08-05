@@ -11,6 +11,10 @@
 ![Focus](https://img.shields.io/badge/FOCUS-CLOUD_PLATFORM_%26_GENAIOPS-0E5A94?style=for-the-badge&logoColor=white)
 ![Certified](https://img.shields.io/badge/CERTIFIED-AZ--104-2EA043?style=for-the-badge&logoColor=white)
 
+<br/>
+
+<img src="hero-terminal.svg" alt="Harsh Pardhi — Cloud Platform Engineer terminal card" width="100%"/>
+
 </div>
 
 ## 👋 About Me
@@ -43,7 +47,7 @@ Cloud Platform Engineer with **2+ years** of production experience at Hexaware T
     </td>
     <td width="50%" valign="top">
       <h4>🤖 Azure RAG Assistant on AKS</h4>
-      <p>RAG assistant on AKS: Azure OpenAI + Azure AI Search behind a <b>LiteLLM gateway</b> with per-team budgets, KEDA autoscaling and a CI eval gate. Shipping <b>Sep 2026</b>.</p>
+      <p>RAG assistant on AKS: Azure OpenAI + Azure AI Search behind a <b>LiteLLM gateway</b> with per-team budgets, KEDA autoscaling and a CI eval gate; token-cost dashboards and alerts in Grafana.</p>
       <code>Azure OpenAI</code> <code>AI Foundry</code> <code>AI Search</code> <code>LiteLLM</code> <code>AKS</code>
     </td>
   </tr>
@@ -63,9 +67,9 @@ Cloud Platform Engineer with **2+ years** of production experience at Hexaware T
 
 ## 🎯 Currently Building & Learning
 
-- **Azure RAG Assistant on AKS** — LiteLLM gateway, per-team budgets, CI eval gate (Oct 2026).
 - **AWS working knowledge** — EC2, S3, VPC, EKS, CloudWatch + Terraform on AWS.
-- **AI-300** (MLOps/GenAIOps Engineer Associate) prep; **AZ-400** in progress.
+- **GenAIOps hardening** — LLM evals, token-cost alerts, responsible-AI controls.
+- **AZ-400** (DevOps Engineer Expert) — expected Sep 2026.
 - **Network troubleshooting deep-dive** — tcpdump, dig, Wireshark.
 
 ## 🏅 Certifications
@@ -73,8 +77,7 @@ Cloud Platform Engineer with **2+ years** of production experience at Hexaware T
 - **Microsoft Certified: Azure Administrator Associate (AZ-104)** — Aug 2026 ✅
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** — Apr 2025 ✅
 - **Claude Certified Associate — Anthropic** — expected Sep 2026
-- **Microsoft Certified: DevOps Engineer Expert (AZ-400)** — in progress
-- **Microsoft Certified: MLOps Engineer Associate (AI-300)** — in progress
+- **Microsoft Certified: DevOps Engineer Expert (AZ-400)** — expected Sep 2026
 
 ## 📈 Contribution Velocity
 
