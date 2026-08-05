@@ -42,8 +42,8 @@ Cloud Platform Engineer with **2+ years** of production experience at Hexaware T
       <code>Kubecost</code> <code>Prometheus</code> <code>Ansible</code> <code>Helm</code> <code>KinD</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🚧 In Progress — Azure RAG Assistant on AKS</h4>
-      <p>RAG assistant on AKS: Azure OpenAI + Azure AI Search behind a <b>LiteLLM gateway</b> with per-team budgets, KEDA autoscaling and a CI eval gate. Shipping <b>Oct 2026</b>.</p>
+      <h4>🤖 Azure RAG Assistant on AKS</h4>
+      <p>RAG assistant on AKS: Azure OpenAI + Azure AI Search behind a <b>LiteLLM gateway</b> with per-team budgets, KEDA autoscaling and a CI eval gate. Shipping <b>Sep 2026</b>.</p>
       <code>Azure OpenAI</code> <code>AI Foundry</code> <code>AI Search</code> <code>LiteLLM</code> <code>AKS</code>
     </td>
   </tr>
