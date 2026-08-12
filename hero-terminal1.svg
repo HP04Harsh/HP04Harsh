@@ -60,7 +60,7 @@
     <text x="450" y="84" fill="#57606A" font-size="13" text-anchor="middle">harsh pardhi: ~/cloud-devops — zsh</text>
 
     <text x="138" y="134" font-size="15"><tspan fill="#1A7F37">$</tspan><tspan fill="#1F2328"> whoami</tspan></text>
-    <text x="138" y="162" fill="#57606A" font-size="15">harsh_pardhi · Cloud & DevOps Engineer</text>
+    <text x="138" y="162" fill="#57606A" font-size="15">harsh_pardhi · Cloud and DevOps Engineer</text>
 
     <text x="138" y="198" font-size="15"><tspan fill="#1A7F37">$</tspan><tspan fill="#1F2328"> stack --top</tspan></text>
     <text x="138" y="226" fill="#1C6EB4" font-size="15">Azure · Terraform · Kubernetes · CI/CD · GenAIOps</text>
