@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="hero-terminal1.svg" alt="Harsh Pardhi — Cloud & DevOps Engineer terminal card" width="100%"/>
+<img src="hero-terminal12.svg" alt="Harsh Pardhi — Cloud & DevOps Engineer terminal card" width="100%"/>
 
 </div>
 
