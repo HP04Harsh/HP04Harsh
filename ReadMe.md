@@ -2,53 +2,59 @@
 
 # HARSH PARDHI #
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=1C6EB4&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer;Azure+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+CI%2FCD;AIOps%3A+InfraGenie+with+7+AI+Personas;Automate+the+Boring.+Keep+it+Reliable.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=1C6EB4&center=true&vCenter=true&width=900&lines=Azure+Cloud+Engineer;Cloud+Operations+%26+Automation;Azure+%C2%B7+Terraform+%C2%B7+Kubernetes+%C2%B7+PowerShell;Automate+the+Boring.+Keep+it+Reliable.)](https://git.io/typing-svg)
 
 <br/>
 
-![Experience](https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS_CLOUD_%26_DEVOPS-1F3864?style=for-the-badge&logoColor=white)
+![Experience](https://img.shields.io/badge/EXPERIENCE-2_YEARS_AZURE_%26_AUTOMATION-1F3864?style=for-the-badge&logoColor=white)
 ![Current](https://img.shields.io/badge/CURRENT-HEXAWARE_TECHNOLOGIES-1C6EB4?style=for-the-badge&logoColor=white)
-![Focus](https://img.shields.io/badge/FOCUS-AZURE_PLATFORM_%26_GENAIOPS-0E5A94?style=for-the-badge&logoColor=white)
+![Focus](https://img.shields.io/badge/FOCUS-CLOUD_OPS_%26_AUTOMATION-0E5A94?style=for-the-badge&logoColor=white)
 ![Certified](https://img.shields.io/badge/CERTIFIED-AZ--104-2EA043?style=for-the-badge&logoColor=white)
 
 <br/>
 
-<img src="hero-terminal12.svg" alt="Harsh Pardhi — Cloud & DevOps Engineer terminal card" width="100%"/>
+<img src="hero-terminal13.svg" alt="Harsh Pardhi — Azure Cloud Engineer terminal card" width="100%"/>
 
 </div>
 
 ## 👋 About Me
 
-Cloud & DevOps Engineer with **2+ years** at Hexaware Technologies, working on Azure, Kubernetes, Terraform and CI/CD. I move workloads, kill manual toil and keep platforms reliable: **5,000+ users** migrated to Microsoft 365 at **99% data accuracy**, **20+ hours/month** of manual ops automated away, and Terraform landing zones that cut new environments from **~2 days to ~2 hours**. Outside work I build **InfraGenie** — an AIOps platform with seven AI personas that monitors Azure 24x7, auto-heals safe issues and logs ServiceNow tickets, powered by a model I fine-tuned and published on Hugging Face.
+Software engineer at **Hexaware Technologies**, two years in, working across Azure, Microsoft 365 and automation. Most of my work follows one pattern: something is being done by hand, and it shouldn't be. I find it, script it, and put the output where people can see it.
+
+At work that has meant migrating **5,000+ users** to Microsoft 365 with ShareGate and **5 PowerShell scripts**; deploying **StorageX Analytics** against a client's NetApp ONTAP estate and scripting collection across **9 storage VMs / 2 clusters** into **10 scheduled Power BI reports**; moving **132 Power Apps and 50+ Power Automate flows** to a new tenant; and building **Transcend**, a Power App with a Copilot Studio agent that is now the primary tracking tool for our internal PMO team.
+
+Outside work I build infrastructure projects to go deeper — **InfraGenie**, a two-region Azure DR environment in Terraform, and **KubeScale-Ops**. Being straight about it: my Terraform and Kubernetes depth comes from those projects and one client POC rather than years of production ownership. **AZ-400** next, then **CKA**.
 
 ## 🌟 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 InfraGenie — AIOps Platform</h4>
-      <p>An AIOps platform with <b>7 AI personas</b> (provisioning, assessment, optimization, observability, troubleshooting, reporting, policy &amp; compliance). Turns natural-language requests into <b>validated Terraform plans</b> with Infracost cost/policy pre-flights behind human approval; watches Azure <b>24x7</b> via Prometheus/Grafana, auto-heals safe issues and logs <b>ServiceNow</b> tickets with audit trails.</p>
-      <p><a href="https://github.com/HP04Harsh/infraGenie-AI-Automation-Platform">repo</a> · <a href="https://huggingface.co/HarshG05/InfraGenie-Azure-Expert">HF model (fine-tuned Qwen2.5-Code-7B, SFT)</a></p>
-      <code>Terraform</code> <code>AKS</code> <code>Python</code> <code>LLM</code> <code>Infracost</code> <code>ServiceNow</code>
+      <h4>🤖 InfraGenie — Natural-language Azure provisioning</h4>
+      <p>Turns a plain-English request into a <b>reviewable Terraform plan</b> — mapped to vetted modules, with policy checks and a cost estimate attached to the diff. Nothing reaches the subscription until a <b>human approves the plan</b>. Runs on <b>AKS</b>, with <b>Argo CD</b> for drift detection and <b>Kubecost</b> for node-level cost visibility. State is held remotely in Azure Storage.</p>
+      <p><i>Architecture and infrastructure design are mine; application code was generated with AI coding agents under structured prompting.</i></p>
+      <p><a href="https://github.com/HP04Harsh/infraGenie-AI-Automation-Platform">repo</a> · <a href="https://huggingface.co/HarshG05/InfraGenie-Azure-Expert">HF model (fine-tuned Qwen2.5-Coder-7B, SFT)</a></p>
+      <code>Terraform</code> <code>AKS</code> <code>Argo CD</code> <code>Kubecost</code> <code>Python</code> <code>Qwen2.5-Coder-7B</code>
     </td>
     <td width="50%" valign="top">
       <h4>🛡️ Azure Multi-Region DR</h4>
-      <p>Active–passive multi-region disaster recovery as <b>100% Terraform-managed code</b>: Traffic Manager routing, auto-scaling VM Scale Sets and geo-replicated storage for <b>zero-downtime failover</b>. Documented, reproducible, destroy-and-rebuild ready.</p>
+      <p>Active–passive two-region disaster recovery defined entirely in <b>Terraform</b> and deployed through <b>GitHub Actions</b>: Traffic Manager routing, auto-scaling VM Scale Sets and geo-replicated storage. Failed over end to end, then documented — including what broke on the way. Destroy-and-rebuild reproducible.</p>
       <p><a href="https://github.com/HP04Harsh/azure-multi-region-dr-terraform">repo</a></p>
-      <code>Terraform</code> <code>Traffic Manager</code> <code>VMSS</code> <code>Azure SQL</code>
+      <code>Terraform</code> <code>Traffic Manager</code> <code>VMSS</code> <code>Azure SQL</code> <code>GitHub Actions</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>💰 KubeScale-Ops — K8s Governance &amp; FinOps</h4>
-      <p>FinOps control plane where <b>Kubecost + Prometheus</b> track spend and utilization — flagged <b>~20% reclaimable spend</b> via rightsizing; manifests GitOps-managed.</p>
+      <p>FinOps control plane where <b>Kubecost + Prometheus</b> track spend and utilization. Kubecost surfaced <b>~20% reclaimable spend</b> from rightsizing in the test cluster; manifests are GitOps-managed and validated on a <b>KinD</b> loop before they reach a real cluster.</p>
       <p><a href="https://github.com/HP04Harsh/KubeScale-Ops">repo</a></p>
-      <code>Kubecost</code> <code>Prometheus</code> <code>Helm</code> <code>KinD</code>
+      <code>Kubecost</code> <code>Prometheus</code> <code>Helm</code> <code>KinD</code> <code>GitOps</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Azure RAG Assistant on AKS</h4>
-      <p>RAG assistant on AKS: Azure OpenAI + Azure AI Search behind a <b>LiteLLM gateway</b> with per-team budgets, KEDA autoscaling and a CI eval gate; token-cost dashboards and alerts in Grafana.</p>
-      <code>Azure OpenAI</code> <code>AI Search</code> <code>LiteLLM</code> <code>AKS</code>
+      <h4>🔐 k8s-sec-observability</h4>
+      <p>Kubernetes policy and observability lab: <b>Kyverno</b> admission policies enforcing image and resource rules, <b>Istio</b> for service-to-service traffic, and <b>Grafana</b> dashboards over the cluster. Built to understand what "secure by default" actually costs to run.</p>
+      <p><a href="https://github.com/HP04Harsh/k8s-sec-observability">repo</a></p>
+      <code>Kyverno</code> <code>Istio</code> <code>Grafana</code> <code>Kubernetes</code>
     </td>
   </tr>
 </table>
@@ -57,20 +63,21 @@ Cloud & DevOps Engineer with **2+ years** at Hexaware Technologies, working on A
 
 | Category | Technologies |
 | :--- | :--- |
-| **Cloud** | ![Azure](https://img.shields.io/badge/Azure-1C6EB4?logo=microsoftazure&logoColor=white) ![Entra ID](https://img.shields.io/badge/Entra_ID-1F3864?logo=microsoft&logoColor=white) |
+| **Cloud** | ![Azure](https://img.shields.io/badge/Azure-1C6EB4?logo=microsoftazure&logoColor=white) ![Entra ID](https://img.shields.io/badge/Entra_ID-1F3864?logo=microsoft&logoColor=white) ![Azure Storage](https://img.shields.io/badge/Azure_Storage-0E5A94?logo=microsoftazure&logoColor=white) |
 | **Containers** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1628?logo=helm&logoColor=white) ![AKS](https://img.shields.io/badge/AKS-1C6EB4?logo=microsoftazure&logoColor=white) |
-| **IaC & Automation** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-1F3864?logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) |
-| **CI/CD & GitOps** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?logo=argo&logoColor=white) |
-| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-1C6EB4?logo=microsoftazure&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-1F3864?logo=servicenow&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1F3864?logo=databricks&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-0E5A94?logo=fastapi&logoColor=white) |
-| **AI / GenAI** | ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?logo=openai&logoColor=white) ![AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-1C6EB4?logo=microsoftazure&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-AI_Search-0E5A94?logo=microsoftazure&logoColor=white) ![LiteLLM](https://img.shields.io/badge/LiteLLM-gateway-1F3864?logo=litellm&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-fine--tuned_PoC-FFD21E?logo=huggingface&logoColor=black) |
+| **IaC & Automation** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) ![Bicep](https://img.shields.io/badge/Bicep-1C6EB4?logo=microsoftazure&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-1F3864?logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
+| **CI/CD & GitOps** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?logo=argo&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+| **Observability & FinOps** | ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-1C6EB4?logo=microsoftazure&logoColor=white) ![Log Analytics](https://img.shields.io/badge/Log_Analytics-KQL-0E5A94?logo=microsoftazure&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) ![Kubecost](https://img.shields.io/badge/Kubecost-20B982?logo=kubernetes&logoColor=white) |
+| **Microsoft 365 & Power Platform** | ![SharePoint](https://img.shields.io/badge/SharePoint-038387?logo=microsoftsharepoint&logoColor=white) ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?logo=powerapps&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?logo=powerautomate&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-1F3864?logo=microsoft&logoColor=white) ![ShareGate](https://img.shields.io/badge/ShareGate-migration-0E5A94?logo=microsoft&logoColor=white) |
+| **Languages & APIs** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1F3864?logo=databricks&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-0E5A94?logo=fastapi&logoColor=white) ![Graph API](https://img.shields.io/badge/Microsoft_Graph-2088FF?logo=microsoft&logoColor=white) |
+| **AI / GenAI** | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-fine--tuned_model-FFD21E?logo=huggingface&logoColor=black) ![Qwen](https://img.shields.io/badge/Qwen2.5--Coder--7B-SFT-412991?logo=alibabacloud&logoColor=white) ![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-agents-1C6EB4?logo=microsoft&logoColor=white) |
 
 ## 🎯 Currently Building & Learning
 
-- **GenAIOps hardening** — LLM evals, token-cost alerts, responsible-AI controls.
-- **AZ-400** (DevOps Engineer Expert) — expected Sep 2026.
+- **AZ-400** (DevOps Engineer Expert) — sitting Sep 2026.
+- **CKA** (Certified Kubernetes Administrator) — starting after AZ-400.
 - **NVIDIA NCA** (AI Infrastructure Operations) — in progress.
-- **Network troubleshooting deep-dive** — tcpdump, dig, Wireshark.
+- **InfraGenie hardening** — tighter policy checks and a clearer plan-diff review step.
 
 ## 🏅 Certifications
 
