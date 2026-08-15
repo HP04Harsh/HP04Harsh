@@ -57,16 +57,16 @@
     <circle cx="134" cy="79" r="6.5" fill="#FF5F56"/>
     <circle cx="156" cy="79" r="6.5" fill="#FFBD2E"/>
     <circle cx="178" cy="79" r="6.5" fill="#27C93F"/>
-    <text x="450" y="84" fill="#57606A" font-size="13" text-anchor="middle">harsh pardhi: ~/cloud-devops — zsh</text>
+    <text x="450" y="84" fill="#57606A" font-size="13" text-anchor="middle">harsh pardhi: ~/azure-cloud-ops — zsh</text>
 
     <text x="138" y="134" font-size="15"><tspan fill="#1A7F37">$</tspan><tspan fill="#1F2328"> whoami</tspan></text>
-    <text x="138" y="162" fill="#57606A" font-size="15">harsh_pardhi · Cloud and DevOps Engineer</text>
+    <text x="138" y="162" fill="#57606A" font-size="15">harsh_pardhi · Azure Cloud Engineer</text>
 
     <text x="138" y="198" font-size="15"><tspan fill="#1A7F37">$</tspan><tspan fill="#1F2328"> stack --top</tspan></text>
-    <text x="138" y="226" fill="#1C6EB4" font-size="15">Azure · Terraform · Kubernetes · CI/CD · GenAIOps</text>
+    <text x="138" y="226" fill="#1C6EB4" font-size="15">Azure · Terraform · Kubernetes · PowerShell · Python</text>
 
-    <text x="138" y="262" font-size="15"><tspan fill="#1A7F37">$</tspan><tspan fill="#1F2328"> impact --last-2y</tspan></text>
-    <text x="138" y="290" fill="#57606A" font-size="15">5,000+ users @ 99% accuracy · 20+ hrs/mo automated · MTTR -25%</text>
+    <text x="138" y="262" font-size="15"><tspan fill="#1A7F37">$</tspan><tspan fill="#1F2328"> shipped --last-2y</tspan></text>
+    <text x="138" y="290" fill="#57606A" font-size="15">5,000+ users to M365 · 132 Power Apps migrated · 10 BI reports</text>
 
     <text x="138" y="326" font-size="15"><tspan fill="#1A7F37">$</tspan><tspan fill="#1F2328"> status</tspan></text>
     <text x="138" y="352" font-size="15"><tspan fill="#1A7F37">●</tspan><tspan fill="#1F2328"> open to opportunities</tspan></text>
