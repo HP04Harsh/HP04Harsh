@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="hero-terminal.svg" alt="Harsh Pardhi — Azure Cloud & Automation Engineer" width="100%"/>
+<img src="hero-terminal15.svg" alt="Harsh Pardhi — Azure Cloud & Automation Engineer" width="100%"/>
 
 </div>
 
