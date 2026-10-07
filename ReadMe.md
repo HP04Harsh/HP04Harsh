@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="hero-terminal15.svg" alt="Harsh Pardhi — Applied AI Engineer" width="100%"/>
+<img src="hero-terminal152.svg" alt="Harsh Pardhi — Applied AI Engineer" width="100%"/>
 
 </div>
 
